@@ -1,5 +1,5 @@
 # AdHub
- Advert website where users can post listings for items, services, or jobs.
+ Advert website where users can post listings for items, services, or jobs.<br>
 For a demo of this project watch this: https://youtu.be/a2ztLzbQ81U
 
 PS: This project is not maintained anymore.
